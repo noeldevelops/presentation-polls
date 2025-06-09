@@ -1,3 +1,4 @@
+:warning: This code was AI-generated! Run it at your own risk. :warning:
 # Interactive Presentation Polls
 
 A simple, real-time web slideshow and polling app for live presentations.
@@ -130,4 +131,4 @@ A simple, real-time web slideshow and polling app for live presentations.
 - Add more slides or polls in `slides.json` and `public/slides/`.
 
 ## License
-MIT 
+None
