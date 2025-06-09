@@ -1,0 +1,4 @@
+[
+  { "id": "slide1", "path": "/slides/slide1.html", "type": "content" },
+  { "id": "slide2", "path": "/slides/slide2.html", "type": "poll", "pollId": "poll-q1", "slug": "favorite-color", "question": "What is your favorite color?", "options": ["Red", "Blue", "Green"] }
+] 
